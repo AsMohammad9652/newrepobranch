@@ -1,3 +1,3 @@
-print("hello world")
-c=20
+a=10
+b=20
 print(c)
